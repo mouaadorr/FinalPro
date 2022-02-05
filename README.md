@@ -498,6 +498,13 @@ redefinition of deep mode copy, assign and destroy builder;
 
 &nbsp;
    # Restorant class
+   
+Class that represents fast food to us as a physical entity, which presents:
+* a container of all the products present in FastFood;
+* an employee container (Dlist)
+* an order container.
+* a default constructor and various concrete methods with the aim of manipulating FastFood information, updating the menu, updating orders, converting information to subsequently save it in the database (JSON file) and communicate with the various views of the interface.
+* when the application starts, it calls some static functions of the Database class to build the products sold by the restaurant and the employees.
 
 # .h
 ```cpp
@@ -598,13 +605,6 @@ return v;
 }
 
 ```
-
-Class that represents fast food to us as a physical entity, which presents:
-* a container of all the products present in FastFood;
-* an employee container (Dlist)
-* an order container.
-* a default constructor and various concrete methods with the aim of manipulating FastFood information, updating the menu, updating orders, converting information to subsequently save it in the database (JSON file) and communicate with the various views of the interface.
-* when the application starts, it calls some static functions of the Database class to build the products sold by the restaurant and the employees.
 
 &nbsp;
    # Class Order 
