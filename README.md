@@ -1394,6 +1394,12 @@ which in turn is made up of folders:
 * **Control:** contains the .cpp / .h file of the controller used
 
 &nbsp;  
+--------
+# Now let's have a look at the final result
+![test](https://user-images.githubusercontent.com/93826833/152664390-27e8a44f-9d47-4670-b440-fefdd27665a5.gif)
+https://user-images.githubusercontent.com/93826833/152664853-9f37921c-b005-4ebf-8e6e-67ed81958cea.mp4
+![test2](https://user-images.githubusercontent.com/93826833/152664897-d7e6f5fd-009f-480a-97ff-2a65cff643c9.gif)
+
 
 
 # Conclusions
